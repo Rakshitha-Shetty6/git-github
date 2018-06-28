@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 myinfo file
+=======
+RakshithaKShetty
+>>>>>>> development3
